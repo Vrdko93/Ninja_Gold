@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+#result{
+	margin-bottom: 20px;
+}
+
+#heading{
+	display: inline;
+}
+
+#heading_box{
+	display: inline-block;
+	
+}
+
+button{
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 60px;
+}
+
+h3{
+    padding-left: 60px;
+}
+
+form{
+     display: inline-block;
+     width: 200px;
+     height: 200px;
+     padding: 60px;
+     border: solid;
+     align-content: center;
+     margin-right: 20px;
+}
+
+textarea{
+     color: green;
+}
